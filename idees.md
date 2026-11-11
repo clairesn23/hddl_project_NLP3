@@ -1,0 +1,19 @@
+# Architecture/Organisation
+
+## Création de deux notebooks :
+1 -> Question et Réponsé
+2 -> Traduction
+
+Dans chaque notebook, métriques communes 
+
+## Ajout notebook supplémentaire 
+Obtenir un jeu de données de test qui est semantic preserving : LMM as judge, Cosine similarity 
+
+# Quel modèle/métrique/dataset prenons nous ?
+
+dataset : un par tâche 
+
+modèle de Q&A
+modèle traduction
+1 tranformer et 1 LLM dont 1 LLM commun à la traduction et Question/Réponse
+

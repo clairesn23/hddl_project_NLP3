@@ -18,3 +18,6 @@ modèle de Q&A
 modèle traduction
 1 tranformer et 1 LLM dont 1 LLM commun à la traduction et Question/Réponse
 
+2 transformers (trad), 2 transformers (Q&A), 2 LMM (les2)
+pour la semaine du 18: recherches doivent être finies
+pour la semaine du 25: structuration des notebooks avancée (eventuellement premier test simple)

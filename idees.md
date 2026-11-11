@@ -13,6 +13,12 @@ Obtenir un jeu de données de test qui est semantic preserving : LMM as judge, C
 
 dataset : un par tâche 
 
+Q&A: 
+https://github.com/clairesn23/hddl_project_NLP3.git
+
+Perturber : 
+https://github.com/IBM/perturber
+
 modèle de Q&A
 - transformer 1: https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad
 modèle traduction

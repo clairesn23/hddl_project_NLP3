@@ -14,6 +14,7 @@ Obtenir un jeu de données de test qui est semantic preserving : LMM as judge, C
 dataset : un par tâche 
 
 modèle de Q&A
+- transformer 1: https://huggingface.co/distilbert/distilbert-base-cased-distilled-squad
 modèle traduction
 1 tranformer et 1 LLM dont 1 LLM commun à la traduction et Question/Réponse
 
